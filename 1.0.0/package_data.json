@@ -1,0 +1,55 @@
+{
+    "name": "-03-aamir-quiz-cli-project",
+    "version": "1.0.0",
+    "description": "This is Quiz CLI project, which consists of MCQs questions having 10 marks of each question",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "-03-aamir-quiz-cli-project": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "aamir coding"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.23"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "-03-aamir-quiz-cli-project@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-tLFjb6Mlf4x5Gomw7iCbouvHUA98TGXGy/6vpvAVNpBY5poJ83DJkEHXL+sSSsLrHorTdreBHxGFJDF48Ad+4Q==",
+        "shasum": "4d22dbb45b6f3950d8f2840f0e8a1c5a8c781cdf",
+        "tarball": "https://registry.npmjs.org/-03-aamir-quiz-cli-project/-/-03-aamir-quiz-cli-project-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 16442,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIEiLHwmRySjsS6cCtyV6gkAzRvA312ZczjjOS/k7GdviAiEA0xZQqvWtAHHUr6kUultZtFA/DJAA71nFXYGT/dBN3Pg="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "aamir222coding",
+        "email": "aamirm339@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "aamir222coding",
+            "email": "aamirm339@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-03-aamir-quiz-cli-project_1.0.0_1717325573940_0.20606088354995644"
+    },
+    "_hasShrinkwrap": false
+}
