@@ -1,0 +1,46 @@
+{
+    "name": "0-100",
+    "version": "0.0.3-beta.1",
+    "description": "0-100 react training: the beginning",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "test": "make TEST"
+    },
+    "readme": "# Title\n\n\n## Heading 2\n- point 1 \n- point 2 \n\n## Heading 2\n1. numbered\n2. also numbered\n\n## The rest\n> quotes\n\n`code`\n\n_italics_\n\n**bold**\n\n```js\nconst eh = {}\n```",
+    "readmeFilename": "README.md",
+    "gitHead": "ad39467df6736f0c0fb72b7d6828d316028d6df7",
+    "_id": "0-100@0.0.3-beta.1",
+    "_npmVersion": "5.6.0",
+    "_nodeVersion": "9.8.0",
+    "_npmUser": {
+        "name": "themohanraj",
+        "email": "mohanraj@skava.com"
+    },
+    "dist": {
+        "integrity": "sha512-e3T+l4XPqV4esrN7dY1/8tvr9fpxQRUt3uBVk/p2UHcxilMFEFb83yiid4ZTb9RbNFxUuuHz1gSu3BimJhPwQA==",
+        "shasum": "1308eba97bfb45c88de387a809548eb87a0aeb09",
+        "tarball": "https://registry.npmjs.org/0-100/-/0-100-0.0.3-beta.1.tgz",
+        "fileCount": 5,
+        "unpackedSize": 661,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbH65YCRA9TVsSAnZWagAAYyIP/1zjyw90Towc5yVBQrMs\nbX9mejpzhPTslV13ns0d2UZerfOi4C5vig+roo1BVG9UeqefrkFBpImoyDP8\nH9nZTZQL7eJL/s/7mM+0Lmv82RDQZq1PWuatRdLbaspCdujqwdYYEuaIoUyZ\n06wWoLMqN5D/NGDDfhAwJtmlTKBHC3TMXs6hb9tRgl+osON7Wfdshbz+kx4t\nCKfXNC10PRMshV9AbzjGX9V0kdmTVwSBVj7InSlOUZh7JmUOHzQYl3sExsn5\ndbaxKV4MmQ+7vonFPZBLdQBeGw7/MNJSx521lco7fSR+Iu4IKU2TutS/igaS\nHOJiCwaY7eww2yZQOal0WpVPEJkdF4oEUYggr+CBZykjtkXzxmRsJ8o2Ahq8\nPyApg4s3JZIvXUTWFqCrNc8RfBMrft1DAJi1nPCxea7XsfNNXamWDhOGCmpW\nDONcVCBI05Y4lIlok5cgjQ6CQd/2/i/UPDGRUV6N/IiHKpYUBDTou289YxAr\nkPmTY+naxVGp0HP2GLYAb2l/8+cY3hMhK5Ldi+L8vBu89s7kOX+7s8dcRoPq\n0zX5KP+G7j5kinO7VGa4c2Z2mUwITIAHr7Yn1DPUbIs9f1YXQMZYYsM1dd9k\nvjc81VjeCsWUAidJ91aKMttxDpyIB3E5vVcchWV9ENWn5r9zewTFvmfQSB2c\n9tnW\r\n=FvkH\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCICoDKGnZ+RkU99GF8QsrEIPt8x/ye3YAkyIbIEXZ46DSAiEArB9YsSuOC8WHaoL453tcEFXPS+/RJR+54RvKXOjqfQU="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "themohanraj",
+            "email": "mohanraj@skava.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0-100_0.0.3-beta.1_1528802904193_0.3866711115794994"
+    },
+    "_hasShrinkwrap": false
+}
